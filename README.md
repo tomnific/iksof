@@ -1,7 +1,7 @@
 # iOS Kernel Symbol Offset Finder
 Don't ya just hate it when PoC's for iOS exploits are hardcoded to work with one specific device model on one specific subversion of iOS, instead of just dynamically finding the offsets it requires? 
 
-Be annoyed no more - IKSOF finds all<sup><sub>*</sub></sup> those symbol offsets for you and even outputs them a nice header file as macros.
+Be annoyed no more - IKSOF finds all<sup><sub>*</sub></sup> those symbol offsets for you and even outputs them in a nice header file as macros.
 
 <br>
 
